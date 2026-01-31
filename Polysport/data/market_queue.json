@@ -1,0 +1,82 @@
+{
+  "pending_markets": {
+    "lol-me1-s2g-2026-01-30": {
+      "slug": "lol-me1-s2g-2026-01-30",
+      "entry_time": "2026-01-30T14:30:00+00:00",
+      "match_start_time": "2026-01-30T14:30:00+00:00",
+      "discovered_at": "2026-01-30T12:19:52.650660+00:00",
+      "status": "pending"
+    },
+    "lol-dp-pcific-2026-01-30": {
+      "slug": "lol-dp-pcific-2026-01-30",
+      "entry_time": "2026-01-30T17:30:00+00:00",
+      "match_start_time": "2026-01-30T17:30:00+00:00",
+      "discovered_at": "2026-01-30T12:19:54.228475+00:00",
+      "status": "pending"
+    },
+    "lol-mea-obf-2026-01-30": {
+      "slug": "lol-mea-obf-2026-01-30",
+      "entry_time": "2026-01-30T16:00:00+00:00",
+      "match_start_time": "2026-01-30T16:00:00+00:00",
+      "discovered_at": "2026-01-30T13:48:48.404816+00:00",
+      "status": "pending"
+    },
+    "lol-t1-dk-2026-01-31": {
+      "slug": "lol-t1-dk-2026-01-31",
+      "entry_time": "2026-01-31T08:00:00+00:00",
+      "match_start_time": "2026-01-31T08:00:00+00:00",
+      "discovered_at": "2026-01-31T03:19:50.423015+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.505754+00:00"
+    },
+    "lol-dcg-cfo-2026-01-31": {
+      "slug": "lol-dcg-cfo-2026-01-31",
+      "entry_time": "2026-01-31T06:00:00+00:00",
+      "match_start_time": "2026-01-31T06:00:00+00:00",
+      "discovered_at": "2026-01-31T03:19:51.507195+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.507757+00:00"
+    },
+    "lol-mvk-shg-2026-01-31": {
+      "slug": "lol-mvk-shg-2026-01-31",
+      "entry_time": "2026-01-31T08:30:00+00:00",
+      "match_start_time": "2026-01-31T08:30:00+00:00",
+      "discovered_at": "2026-01-31T03:19:52.939701+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.508757+00:00"
+    },
+    "lol-jdg-al-2026-01-31": {
+      "slug": "lol-jdg-al-2026-01-31",
+      "entry_time": "2026-01-31T09:00:00+00:00",
+      "match_start_time": "2026-01-31T09:00:00+00:00",
+      "discovered_at": "2026-01-31T03:19:53.644006+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.508897+00:00"
+    },
+    "lol-blg-ig1-2026-01-31": {
+      "slug": "lol-blg-ig1-2026-01-31",
+      "entry_time": "2026-01-31T11:00:00+00:00",
+      "match_start_time": "2026-01-31T11:00:00+00:00",
+      "discovered_at": "2026-01-31T03:19:55.068817+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.509897+00:00"
+    },
+    "lol-c9-ly-2026-01-31": {
+      "slug": "lol-c9-ly-2026-01-31",
+      "entry_time": "2026-01-31T21:00:00+00:00",
+      "match_start_time": "2026-01-31T21:00:00+00:00",
+      "discovered_at": "2026-01-31T03:19:55.811913+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.510896+00:00"
+    },
+    "lol-sen-dig-2026-02-01": {
+      "slug": "lol-sen-dig-2026-02-01",
+      "entry_time": "2026-02-01T00:00:00+00:00",
+      "match_start_time": "2026-02-01T00:00:00+00:00",
+      "discovered_at": "2026-01-31T03:19:56.479739+00:00",
+      "status": "entered",
+      "entered_at": "2026-01-31T05:27:55.511896+00:00"
+    }
+  },
+  "last_updated": "2026-01-31T05:27:55.511896+00:00"
+}
